@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "tesla"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tesla copy"
+	}
+}
